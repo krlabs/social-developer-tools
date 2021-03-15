@@ -17,6 +17,12 @@ Webmaster tools in popular social networks.
 11. https://developers.facebook.com/tools/ct/search/
 12. https://developers.facebook.com/tools/accesstoken/
 13. https://developers.facebook.com/docs/instagram-basic-display-api/guides/getting-access-tokens-and-permissions/
+14. https://developers.facebook.com/docs/plugins/like-button
+15. https://www.facebook.com/pages/create/migrate
+16. https://developers.facebook.com/docs/messenger-platform/discovery/
+17. https://developers.facebook.com/docs/messenger-platform/reference/web-plugins/#customer_chat
+18. https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/sdk#install
+19. https://engineering.fb.com/
 
 <H2>Twitter</H2>
 
