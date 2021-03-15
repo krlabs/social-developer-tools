@@ -25,6 +25,7 @@ Webmaster tools in popular social networks.
 3. https://developer.twitter.com/en/portal/dashboard
 4. https://developer.twitter.com/en/docs/twitter-for-websites
 5. https://developer.twitter.com/en/docs/authentication/oauth-1-0a/obtaining-user-access-tokens
+6. https://developer.twitter.com/en/docs/tutorials/using-twurl
 
 <H2>Telegram</H2>
 
@@ -44,3 +45,7 @@ Webmaster tools in popular social networks.
 
 1. https://www.instagram.com/developer/
 2. https://developers.facebook.com/docs/instagram
+
+<H2>Tumblr</H2>
+
+1. https://www.tumblr.com/developers
