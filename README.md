@@ -1,6 +1,30 @@
 # Social Media Developer Tools
 
-Webmaster tools in popular social networks.
+Webmaster tools in popular social networks and search engines.
+
+<H2>Google</H2>
+1. https://search.google.com/test/rich-results
+2. https://search.google.com/test/mobile-friendly
+3. https://www.google.com/webmasters/tools/disavow-links
+4. https://www.google.com/webmasters/tools/i18n
+5. https://www.google.com/webmasters/tools/crawl-url-parameters
+6. https://www.google.com/webmasters/tools/ad-experience-unverified
+7. https://www.google.com/recaptcha/about/
+8. https://developers.google.com/sheets/api/quickstart/js#step_1_turn_on_the
+9. https://support.google.com/docs/answer/3093342?hl=ru
+10. https://console.firebase.google.com/u/0/?pli=1
+11. https://firebase.google.com/docs?authuser=0
+12. https://developer.chrome.com/docs/devtools/
+13. https://webdesigner.withgoogle.com/
+14. https://sites.google.com/u/2/classicsitesmanager
+15. https://amp.dev/
+16. https://code.google.com/
+17. https://opensource.google/
+18. https://developers.google.com/
+19. https://developers.google.com/web
+20. https://codein.withgoogle.com/archive/
+21. https://console.cloud.google.com/google/maps-apis/
+22. https://workspace.google.com/products/admin/
 
 <H2>Facebook</H2>
 
@@ -20,9 +44,10 @@ Webmaster tools in popular social networks.
 14. https://developers.facebook.com/docs/plugins/like-button
 15. https://www.facebook.com/pages/create/migrate
 16. https://developers.facebook.com/docs/messenger-platform/discovery/
-17. https://developers.facebook.com/docs/messenger-platform/reference/web-plugins/#customer_chat
-18. https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/sdk#install
-19. https://engineering.fb.com/
+17. https://developers.facebook.com/docs/messenger-platform/discovery/facebook-chat-plugin/
+18. https://developers.facebook.com/docs/messenger-platform/reference/web-plugins/#customer_chat
+19. https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/sdk#install
+20. https://engineering.fb.com/
 
 <H2>Twitter</H2>
 
