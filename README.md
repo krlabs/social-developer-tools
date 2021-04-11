@@ -26,6 +26,7 @@ Webmaster tools in popular social networks and search engines.
 20. https://codein.withgoogle.com/archive/
 21. https://console.cloud.google.com/google/maps-apis/
 22. https://workspace.google.com/products/admin/
+23. https://developers.google.com/maps/documentation/places/web-service/place-id
 
 <H2>Facebook</H2>
 
