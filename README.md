@@ -15,18 +15,19 @@ Webmaster tools in popular social networks and search engines.
 9. https://support.google.com/docs/answer/3093342?hl=ru
 10. https://console.firebase.google.com/u/0/?pli=1
 11. https://firebase.google.com/docs?authuser=0
-12. https://developer.chrome.com/docs/devtools/
-13. https://webdesigner.withgoogle.com/
-14. https://sites.google.com/u/2/classicsitesmanager
-15. https://amp.dev/
-16. https://code.google.com/
-17. https://opensource.google/
-18. https://developers.google.com/
-19. https://developers.google.com/web
-20. https://codein.withgoogle.com/archive/
-21. https://console.cloud.google.com/google/maps-apis/
-22. https://workspace.google.com/products/admin/
-23. https://developers.google.com/maps/documentation/places/web-service/place-id
+12. https://www.google.com/recaptcha/admin/
+13. https://developer.chrome.com/docs/devtools/
+14. https://webdesigner.withgoogle.com/
+15. https://sites.google.com/u/2/classicsitesmanager
+16. https://amp.dev/
+17. https://code.google.com/
+18. https://opensource.google/
+19. https://developers.google.com/
+20. https://developers.google.com/web
+21. https://codein.withgoogle.com/archive/
+22. https://console.cloud.google.com/google/maps-apis/
+23. https://workspace.google.com/products/admin/
+24. https://developers.google.com/maps/documentation/places/web-service/place-id
 
 <H2>Facebook</H2>
 
