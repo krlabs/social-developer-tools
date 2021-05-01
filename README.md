@@ -20,14 +20,15 @@ Webmaster tools in popular social networks and search engines.
 14. https://webdesigner.withgoogle.com/
 15. https://sites.google.com/u/2/classicsitesmanager
 16. https://amp.dev/
-17. https://code.google.com/
-18. https://opensource.google/
-19. https://developers.google.com/
-20. https://developers.google.com/web
-21. https://codein.withgoogle.com/archive/
-22. https://console.cloud.google.com/google/maps-apis/
-23. https://workspace.google.com/products/admin/
-24. https://developers.google.com/maps/documentation/places/web-service/place-id
+17. https://developers.google.com/maps/documentation/places/web-service/place-id
+18. https://code.google.com/
+19. https://opensource.google/
+20. https://developers.google.com/
+21. https://developers.google.com/web
+22. https://codein.withgoogle.com/archive/
+23. https://console.cloud.google.com/google/maps-apis/
+24. https://workspace.google.com/products/admin/
+25. https://developers.google.com/maps/documentation/places/web-service/place-id
 
 <H2>Facebook</H2>
 
