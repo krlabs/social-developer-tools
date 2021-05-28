@@ -34,6 +34,7 @@ Webmaster tools in popular social networks and search engines.
 
 1. https://www.bing.com/webmasters/tools/contentremoval
 2. http://www.bing.com/webmaster
+3. https://www.bing.com/webmasters/help/webmasters-support-24ab5ebf
 
 <H2>Facebook</H2>
 
