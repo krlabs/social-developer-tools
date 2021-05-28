@@ -30,6 +30,11 @@ Webmaster tools in popular social networks and search engines.
 24. https://workspace.google.com/products/admin/
 25. https://developers.google.com/maps/documentation/places/web-service/place-id
 
+<H2>Bing</H2>
+
+1. https://www.bing.com/webmasters/tools/contentremoval
+2. https://tucha.ua/ru/blog/interview/vitaliy-krasheninin-esli-vybral-dorogu-idi-po-ney-do-konca
+
 <H2>Facebook</H2>
 
 1. https://developers.facebook.com/webmaster/
