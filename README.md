@@ -33,7 +33,6 @@ Webmaster tools in popular social networks and search engines.
 <H2>Bing</H2>
 
 1. https://www.bing.com/webmasters/tools/contentremoval
-2. https://tucha.ua/ru/blog/interview/vitaliy-krasheninin-esli-vybral-dorogu-idi-po-ney-do-konca
 
 <H2>Facebook</H2>
 
