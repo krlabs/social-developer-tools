@@ -33,6 +33,7 @@ Webmaster tools in popular social networks and search engines.
 <H2>Bing</H2>
 
 1. https://www.bing.com/webmasters/tools/contentremoval
+2. http://www.bing.com/webmaster
 
 <H2>Facebook</H2>
 
