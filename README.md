@@ -36,6 +36,7 @@ Webmaster tools in popular social networks and search engines.
 2. http://www.bing.com/webmaster
 3. https://www.bing.com/webmasters/help/webmasters-support-24ab5ebf
 4. https://www.bing.com/webmasters/searchconfig/blockurl
+5. https://clarity.microsoft.com/projects/
 
 <H2>Facebook</H2>
 
