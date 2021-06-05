@@ -29,6 +29,7 @@ Webmaster tools in popular social networks and search engines.
 23. https://console.cloud.google.com/google/maps-apis/
 24. https://workspace.google.com/products/admin/
 25. https://developers.google.com/maps/documentation/places/web-service/place-id
+26. https://policies.google.com/
 
 <H2>Bing</H2>
 
