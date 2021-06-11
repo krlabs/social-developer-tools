@@ -6,31 +6,32 @@ Webmaster tools in popular social networks and search engines.
 
 1. https://search.google.com/test/rich-results
 2. https://search.google.com/test/mobile-friendly
-3. https://www.google.com/webmasters/tools/disavow-links
-4. https://www.google.com/webmasters/tools/i18n
-5. https://www.google.com/webmasters/tools/crawl-url-parameters
-6. https://www.google.com/webmasters/tools/ad-experience-unverified
-7. https://www.google.com/recaptcha/about/
-8. https://developers.google.com/sheets/api/quickstart/js#step_1_turn_on_the
-9. https://support.google.com/docs/answer/3093342?hl=ru
-10. https://console.firebase.google.com/u/0/?pli=1
-11. https://firebase.google.com/docs?authuser=0
-12. https://www.google.com/recaptcha/admin/
-13. https://developer.chrome.com/docs/devtools/
-14. https://webdesigner.withgoogle.com/
-15. https://sites.google.com/u/2/classicsitesmanager
-16. https://amp.dev/
-17. https://developers.google.com/maps/documentation/places/web-service/place-id
-18. https://code.google.com/
-19. https://opensource.google/
-20. https://developers.google.com/
-21. https://developers.google.com/web
-22. https://codein.withgoogle.com/archive/
-23. https://console.cloud.google.com/google/maps-apis/
-24. https://workspace.google.com/products/admin/
-25. https://developers.google.com/maps/documentation/places/web-service/place-id
-26. https://policies.google.com/
-27. https://developers.google.com/search/docs/advanced/crawling/overview-google-crawlers
+3. https://search.google.com/test/amp
+4. https://www.google.com/webmasters/tools/disavow-links
+5. https://www.google.com/webmasters/tools/i18n
+6. https://www.google.com/webmasters/tools/crawl-url-parameters
+7. https://www.google.com/webmasters/tools/ad-experience-unverified
+8. https://www.google.com/recaptcha/about/
+9. https://developers.google.com/sheets/api/quickstart/js#step_1_turn_on_the
+10. https://support.google.com/docs/answer/3093342?hl=ru
+11. https://console.firebase.google.com/u/0/?pli=1
+12. https://firebase.google.com/docs?authuser=0
+13. https://www.google.com/recaptcha/admin/
+14. https://developer.chrome.com/docs/devtools/
+15. https://webdesigner.withgoogle.com/
+16. https://sites.google.com/u/2/classicsitesmanager
+17. https://amp.dev/
+18. https://developers.google.com/maps/documentation/places/web-service/place-id
+19. https://code.google.com/
+20. https://opensource.google/
+21. https://developers.google.com/
+22. https://developers.google.com/web
+23. https://codein.withgoogle.com/archive/
+24. https://console.cloud.google.com/google/maps-apis/
+25. https://workspace.google.com/products/admin/
+26. https://developers.google.com/maps/documentation/places/web-service/place-id
+27. https://policies.google.com/
+28. https://developers.google.com/search/docs/advanced/crawling/overview-google-crawlers
 
 <H2>Bing</H2>
 
