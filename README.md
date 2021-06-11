@@ -30,6 +30,7 @@ Webmaster tools in popular social networks and search engines.
 24. https://workspace.google.com/products/admin/
 25. https://developers.google.com/maps/documentation/places/web-service/place-id
 26. https://policies.google.com/
+27. https://developers.google.com/search/docs/advanced/crawling/overview-google-crawlers
 
 <H2>Bing</H2>
 
